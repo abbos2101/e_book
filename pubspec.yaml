@@ -1,6 +1,6 @@
 name: e_book
 description: A new Flutter project.
-publish_to: 'none' # Test for main
+publish_to: 'none' # Test for main | release
 version: 1.0.0+1
 
 environment:
